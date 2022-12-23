@@ -1,7 +1,7 @@
 # data management areas
 
 Below are the 11 data management areas
-
+```
 1] Data Governance
 2] Data Architecture
 3] Data Modelling & Design
@@ -13,7 +13,7 @@ Below are the 11 data management areas
 9] Datawarehousing & BI/Analytics (Data Science)
 10] Metadata Management
 11] Data Quality
-
+```
 **Do check out our popular playlists** 
 
 1) Networking and Infra Concepts - https://www.youtube.com/playlist?list...
