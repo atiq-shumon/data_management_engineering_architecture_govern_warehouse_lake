@@ -1,4 +1,5 @@
 ### Data lake vs Data warehouse
 
-![image](https://github.com/user-attachments/assets/90c234ee-f1d9-4ca9-a218-c17c1dcf1777)
+![image](https://github.com/user-attachments/assets/381a85af-8ffa-40b3-9690-8060b6eb018d)
+
 
