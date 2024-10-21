@@ -22,18 +22,15 @@ Below are the 11 data management areas
 
 2) Learn - Data Engineering, Data Architecture and Data Analytics - https://www.youtube.com/playlist?list...
 
-3) Google Cloud Platform Beginner Series -
-https://www.youtube.com/watch?v=OzwSB...
+3) Google Cloud Platform Beginner Series - https://www.youtube.com/watch?v=OzwSB
 
-4)  Latest technology tutorial (2021) - 
-https://www.youtube.com/watch?v=l5UcU...
-
-
+4)  Latest technology tutorial (2021) - https://www.youtube.com/watch?v=l5UcU
 
 **Social Channels**
-Youtube - https://www.youtube.com/c/itkfunde
-Facebook - https://www.facebook.com/ITkFUNDE/
-Linkedin - https://www.linkedin.com/in/ansh9685
-Twitter - https://twitter.com/ansh9685
-Instagram -https://www.instagram.com/itkfunde/
+
+- Youtube - https://www.youtube.com/c/itkfunde
+- Facebook - https://www.facebook.com/ITkFUNDE/
+- Linkedin - https://www.linkedin.com/in/ansh9685
+- Twitter - https://twitter.com/ansh9685
+- Instagram -https://www.instagram.com/itkfunde/
 
